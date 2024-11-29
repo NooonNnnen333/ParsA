@@ -1,0 +1,17 @@
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/bin/Debug/net8.0/testLayers
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/bin/Debug/net8.0/testLayers.deps.json
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/bin/Debug/net8.0/testLayers.runtimeconfig.json
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/bin/Debug/net8.0/testLayers.dll
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/bin/Debug/net8.0/testLayers.pdb
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/obj/Debug/net8.0/testLayers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/obj/Debug/net8.0/testLayers.AssemblyInfoInputs.cache
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/obj/Debug/net8.0/testLayers.AssemblyInfo.cs
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/obj/Debug/net8.0/testLayers.csproj.CoreCompileInputs.cache
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/obj/Debug/net8.0/testLayers.dll
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/obj/Debug/net8.0/refint/testLayers.dll
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/obj/Debug/net8.0/testLayers.pdb
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/obj/Debug/net8.0/testLayers.genruntimeconfig.cache
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/obj/Debug/net8.0/ref/testLayers.dll
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/bin/Debug/net8.0/AngleSharp.dll
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/obj/Debug/net8.0/testLayers.csproj.AssemblyReference.cache
+/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/obj/Debug/net8.0/testLayers.csproj.Up2Date

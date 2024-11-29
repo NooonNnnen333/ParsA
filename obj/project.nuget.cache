@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yktl7PVLyls=",
+  "success": true,
+  "projectFilePath": "/Users/egorvasilev/Documents/Институт/C#institut/OOP/testLayers/testLayers.csproj",
+  "expectedPackageFiles": [
+    "/Users/egorvasilev/.nuget/packages/anglesharp/1.2.0-beta.439/anglesharp.1.2.0-beta.439.nupkg.sha512"
+  ],
+  "logs": []
+}
